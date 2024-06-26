@@ -1,0 +1,65 @@
+[
+    {
+        "issue_id": 1,
+        "name": "Billing and Payments",
+        "description": "Issues related to billing errors, payment methods, and invoicing.",
+        "priority_level": "High",
+        "creation_date": "2024-06-26T12:00:00Z",
+        "last_updated_date": "2024-06-26T12:00:00Z",
+        "related_issues": [3]
+    },
+    {
+        "issue_id": 2,
+        "name": "Product Information",
+        "description": "Inquiries about product details, specifications, and availability.",
+        "priority_level": "Medium",
+        "creation_date": "2024-06-26T12:00:00Z",
+        "last_updated_date": "2024-06-26T12:00:00Z",
+        "related_issues": [6]
+    },
+    {
+        "issue_id": 3,
+        "name": "Technical",
+        "description": "Problems related to technical issues, bugs, and troubleshooting.",
+        "priority_level": "Critical",
+        "creation_date": "2024-06-26T12:00:00Z",
+        "last_updated_date": "2024-06-26T12:00:00Z",
+        "related_issues": [1]
+    },
+    {
+        "issue_id": 4,
+        "name": "Account Management",
+        "description": "Requests for account creation, modification, and deletion.",
+        "priority_level": "Medium",
+        "creation_date": "2024-06-26T12:00:00Z",
+        "last_updated_date": "2024-06-26T12:00:00Z",
+        "related_issues": [5]
+    },
+    {
+        "issue_id": 5,
+        "name": "Order Management",
+        "description": "Concerns regarding order processing, tracking, and returns.",
+        "priority_level": "High",
+        "creation_date": "2024-06-26T12:00:00Z",
+        "last_updated_date": "2024-06-26T12:00:00Z",
+        "related_issues": [4]
+    },
+    {
+        "issue_id": 6,
+        "name": "General Inquiry",
+        "description": "General questions and miscellaneous issues.",
+        "priority_level": "Low",
+        "creation_date": "2024-06-26T12:00:00Z",
+        "last_updated_date": "2024-06-26T12:00:00Z",
+        "related_issues": [2]
+    },
+    {
+        "issue_id": 7,
+        "name": "Service Request",
+        "description": "Requests for specific services, installations, and maintenance.",
+        "priority_level": "Medium",
+        "creation_date": "2024-06-26T12:00:00Z",
+        "last_updated_date": "2024-06-26T12:00:00Z",
+        "related_issues": []
+    }
+]
