@@ -1,0 +1,21 @@
+ticket_id,customer_id,ticket_type,issue_date,status
+10101,101,Billing and Payments,2022-06-01T10:30:00Z,closed
+10102,102,Product Information,2022-06-02T14:45:00Z,open
+10103,103,Technical,2022-06-03T09:00:00Z,closed
+10104,104,Account Management,2022-06-04T16:15:00Z,open
+10105,105,Order Management,2022-06-05T11:30:00Z,closed
+11001,110,General Inquiry,2022-06-06T13:00:00Z,closed
+11002,116,Service Request,2022-06-07T10:15:00Z,open
+12001,120,Billing and Payments,2022-06-08T15:30:00Z,closed
+12002,122,Product Information,2022-06-09T09:45:00Z,open
+12201,201,Technical,2022-06-10T12:00:00Z,closed
+12202,205,Billing and Payments,2022-06-11T14:15:00Z,open
+12203,208,Account Management,2022-06-12T10:30:00Z,closed
+12204,209,Order Management,2022-06-13T16:45:00Z,open
+12205,212,General Inquiry,2022-06-14T09:00:00Z,closed
+12206,214,Service Request,2022-06-15T13:15:00Z,open
+12207,216,Technical,2022-06-16T11:30:00Z,closed
+12208,219,Billing and Payments,2022-06-17T15:00:00Z,open
+12209,221,Product Information,2022-06-18T10:45:00Z,closed
+12210,223,Account Management,2022-06-19T16:30:00Z,open
+12211,226,Order Management,2022-06-20T12:00:00Z,closed
