@@ -1,41 +1,41 @@
 issue_id,name,ticket_type,description,creation_date,last_updated
-A01,Software Issue,Technical Support,Issues related to software malfunctioning or errors.,6/27/2024 12:12,6/27/2024 12:12
-A02,Hardware Issue,Technical Support,Problems with physical components of devices.,6/27/2024 12:12,6/27/2024 12:12
-A03,Network Connectivity,Technical Support,Difficulties in connecting to the network.,6/27/2024 12:12,6/27/2024 12:12
-A04,System Crash,Technical Support,Unexpected shutdown or failure of a system.,6/27/2024 12:12,6/27/2024 12:12
-A05,Bug Report,Technical Support,Reporting bugs or glitches in the system.,6/27/2024 12:12,6/27/2024 12:12
-B01,Invoice Request,Billing and Payments,Request for a detailed bill or invoice.,6/27/2024 12:12,6/27/2024 12:12
-B02,Refund Request,Billing and Payments,Asking for money back for a service or product.,6/27/2024 12:12,6/27/2024 12:12
-B03,Payment Issue,Billing and Payments,Problems related to payments.,6/27/2024 12:12,6/27/2024 12:12
-B04,Subscription Cancellation,Billing and Payments,Request to cancel a subscription.,6/27/2024 12:12,6/27/2024 12:12
-B05,Billing Error,Billing and Payments,Discrepancies or mistakes in billing.,6/27/2024 12:12,6/27/2024 12:12
-C01,Account Setup,Account Management,Help with setting up a new account.,6/27/2024 12:12,6/27/2024 12:12
-C02,Password Reset,Account Management,Assistance with resetting a forgotten password.,6/27/2024 12:12,6/27/2024 12:12
-C03,Account Lockout,Account Management,Unable to access account due to lockout.,6/27/2024 12:12,6/27/2024 12:12
-C04,Profile Update,Account Management,Changes or updates to profile information.,6/27/2024 12:12,6/27/2024 12:12
-C05,Account Deactivation,Account Management,Request to deactivate an account.,6/27/2024 12:12,6/27/2024 12:12
-D01,Product Inquiry,Product Information,Questions about a product.,6/27/2024 12:12,6/27/2024 12:12
-D02,Feature Request,Product Information,Suggestions for new features or improvements.,6/27/2024 12:12,6/27/2024 12:12
-D03,Availability Check,Product Information,Inquiring about the availability of a product.,6/27/2024 12:12,6/27/2024 12:12
-D04,Product Comparison,Product Information,Comparing different products.,6/27/2024 12:12,6/27/2024 12:12
-D05,Pre-sales Query,Product Information,Questions before making a purchase.,6/27/2024 12:12,6/27/2024 12:12
-E01,Order Status,Order Management,Checking the status of an order.,6/27/2024 12:12,6/27/2024 12:12
-E02,Order Cancellation,Order Management,Request to cancel an order.,6/27/2024 12:12,6/27/2024 12:12
-E03,Shipping Issue,Order Management,Problems related to shipping.,6/27/2024 12:12,6/27/2024 12:12
-E04,Return/Exchange Request,Order Management,Request to return or exchange a product.,6/27/2024 12:12,6/27/2024 12:12
-E05,Lost/Damaged Order,Order Management,Report of lost or damaged order.,6/27/2024 12:12,6/27/2024 12:12
-F01,Complaint,Customer Feedback,Filing a complaint.,6/27/2024 12:12,6/27/2024 12:12
-F02,Suggestion,Customer Feedback,Providing suggestions for improvement.,6/27/2024 12:12,6/27/2024 12:12
-F03,Praise,Customer Feedback,Positive feedback or commendations.,6/27/2024 12:12,6/27/2024 12:12
-F04,Survey Response,Customer Feedback,Feedback from a survey.,6/27/2024 12:12,6/27/2024 12:12
-F05,Service Feedback,Customer Feedback,Feedback on service received.,6/27/2024 12:12,6/27/2024 12:12
-G01,Service Information,General Inquiry,Information about services offered.,6/27/2024 12:12,6/27/2024 12:12
-G02,Business Hours,General Inquiry,Inquiring about business hours.,6/27/2024 12:12,6/27/2024 12:12
-G03,Contact Information,General Inquiry,Request for contact details.,6/27/2024 12:12,6/27/2024 12:12
-G04,Location Query,General Inquiry,Questions about location.,6/27/2024 12:12,6/27/2024 12:12
-G05,Policy Inquiry,General Inquiry,Inquiring about company policies.,6/27/2024 12:12,6/27/2024 12:12
-H01,Installation Request,Service Request,Request for installation of a product or service.,6/27/2024 12:12,6/27/2024 12:12
-H02,Maintenance Request,Service Request,Request for maintenance services.,6/27/2024 12:12,6/27/2024 12:12
-H03,Upgrade Request,Service Request,Request to upgrade a product or service.,6/27/2024 12:12,6/27/2024 12:12
-H04,Customization Request,Service Request,Request for customization services.,6/27/2024 12:12,6/27/2024 12:12
-H05,Training Request,Service Request,Request for training on a product or service.,6/27/2024 12:12,6/27/2024 12:12
+A01,Software Issue,Technical Support,Issues related to software malfunctioning or errors.,2024-06-27T12:12:00,2024-06-27T12:12:00
+A02,Hardware Issue,Technical Support,Problems with physical components of devices.,2024-06-27T12:12:01,2024-06-27T12:12:01
+A03,Network Connectivity,Technical Support,Difficulties in connecting to the network.,2024-06-27T12:12:02,2024-06-27T12:12:02
+A04,System Crash,Technical Support,Unexpected shutdown or failure of a system.,2024-06-27T12:12:03,2024-06-27T12:12:03
+A05,Bug Report,Technical Support,Reporting bugs or glitches in the system.,2024-06-27T12:12:04,2024-06-27T12:12:04
+B01,Invoice Request,Billing and Payments,Request for a detailed bill or invoice.,2024-06-27T12:12:05,2024-06-27T12:12:05
+B02,Refund Request,Billing and Payments,Asking for money back for a service or product.,2024-06-27T12:12:06,2024-06-27T12:12:06
+B03,Payment Issue,Billing and Payments,Problems related to payments.,2024-06-27T12:12:07,2024-06-27T12:12:07
+B04,Subscription Cancellation,Billing and Payments,Request to cancel a subscription.,2024-06-27T12:12:08,2024-06-27T12:12:08
+B05,Billing Error,Billing and Payments,Discrepancies or mistakes in billing.,2024-06-27T12:12:09,2024-06-27T12:12:09
+C01,Account Setup,Account Management,Help with setting up a new account.,2024-06-27T12:12:10,2024-06-27T12:12:10
+C02,Password Reset,Account Management,Assistance with resetting a forgotten password.,2024-06-27T12:12:11,2024-06-27T12:12:11
+C03,Account Lockout,Account Management,Unable to access account due to lockout.,2024-06-27T12:12:12,2024-06-27T12:12:12
+C04,Profile Update,Account Management,Changes or updates to profile information.,2024-06-27T12:12:13,2024-06-27T12:12:13
+C05,Account Deactivation,Account Management,Request to deactivate an account.,2024-06-27T12:12:14,2024-06-27T12:12:14
+D01,Product Inquiry,Product Information,Questions about a product.,2024-06-27T12:12:15,2024-06-27T12:12:15
+D02,Feature Request,Product Information,Suggestions for new features or improvements.,2024-06-27T12:12:16,2024-06-27T12:12:16
+D03,Availability Check,Product Information,Inquiring about the availability of a product.,2024-06-27T12:12:17,2024-06-27T12:12:17
+D04,Product Comparison,Product Information,Comparing different products.,2024-06-27T12:12:18,2024-06-27T12:12:18
+D05,Pre-sales Query,Product Information,Questions before making a purchase.,2024-06-27T12:12:19,2024-06-27T12:12:19
+E01,Order Status,Order Management,Checking the status of an order.,2024-06-27T12:12:20,2024-06-27T12:12:20
+E02,Order Cancellation,Order Management,Request to cancel an order.,2024-06-27T12:12:21,2024-06-27T12:12:21
+E03,Shipping Issue,Order Management,Problems related to shipping.,2024-06-27T12:12:22,2024-06-27T12:12:22
+E04,Return/Exchange Request,Order Management,Request to return or exchange a product.,2024-06-27T12:12:23,2024-06-27T12:12:23
+E05,Lost/Damaged Order,Order Management,Report of lost or damaged order.,2024-06-27T12:12:24,2024-06-27T12:12:24
+F01,Complaint,Customer Feedback,Filing a complaint.,2024-06-27T12:12:25,2024-06-27T12:12:25
+F02,Suggestion,Customer Feedback,Providing suggestions for improvement.,2024-06-27T12:12:26,2024-06-27T12:12:26
+F03,Praise,Customer Feedback,Positive feedback or commendations.,2024-06-27T12:12:27,2024-06-27T12:12:27
+F04,Survey Response,Customer Feedback,Feedback from a survey.,2024-06-27T12:12:28,2024-06-27T12:12:28
+F05,Service Feedback,Customer Feedback,Feedback on service received.,2024-06-27T12:12:29,2024-06-27T12:12:29
+G01,Service Information,General Inquiry,Information about services offered.,2024-06-27T12:12:30,2024-06-27T12:12:30
+G02,Business Hours,General Inquiry,Inquiring about business hours.,2024-06-27T12:12:31,2024-06-27T12:12:31
+G03,Contact Information,General Inquiry,Request for contact details.,2024-06-27T12:12:32,2024-06-27T12:12:32
+G04,Location Query,General Inquiry,Questions about location.,2024-06-27T12:12:33,2024-06-27T12:12:33
+G05,Policy Inquiry,General Inquiry,Inquiring about company policies.,2024-06-27T12:12:34,2024-06-27T12:12:34
+H01,Installation Request,Service Request,Request for installation of a product or service.,2024-06-27T12:12:35,2024-06-27T12:12:35
+H02,Maintenance Request,Service Request,Request for maintenance services.,2024-06-27T12:12:36,2024-06-27T12:12:36
+H03,Upgrade Request,Service Request,Request to upgrade a product or service.,2024-06-27T12:12:37,2024-06-27T12:12:37
+H04,Customization Request,Service Request,Request for customization services.,2024-06-27T12:12:38,2024-06-27T12:12:38
+H05,Training Request,Service Request,Request for training on a product or service.,2024-06-27T12:12:39,2024-06-27T12:12:39
